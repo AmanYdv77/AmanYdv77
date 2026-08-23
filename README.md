@@ -1,52 +1,55 @@
-## Hi there 👋 I'm Aman Yadav
+# Hi there 👋 I'm Aman Yadav
 
-
-
-*🚀 Engineering Student | Aspiring AI/ML Developer*\
-*🔬 Robotics & Computer Vision Enthusiast*\
-*💼 Open Source Contributor | Tech Explorer*
+*🚀 Mathematics & Computing Undergraduate | Full Stack Developer & ML Engineer*  
+*💻 Django, FastAPI, Machine Learning & Interactive Data Platforms*  
+*💼 Tech Explorer | Open Source Learner*
 
 ---
 
 ### 🚀 About Me
 
-I'm Aman Yadav, an engineering student passionate about AI, ML, and all things tech. I love experimenting with deep learning, robotics, and automation. My projects often revolve around AI-driven solutions, real-time applications, and software automation.
+I'm Aman Yadav, an undergraduate student specializing in **Mathematics & Computing**. I sit at the intersection of web backend engineering and machine learning, building full-stack data platforms, role-based database applications, and predictive analytics engines.
 
-- *Currently working on:* Real-Time Sign Language Recognition & AI-powered automation projects 🤖
-- *Favorite tools:* Python, OpenCV, PyTorch, TensorFlow, Raspberry Pi, and Arduino.
-- *Hobbies:* Exploring tech innovations, gaming, and tinkering with robotics 🤖
-- *Professional Goal:* Build AI-driven solutions that make an impact!
-
----
-
-### 🛠 Projects I’m Proud Of
-
-- *[Real-Time Sign Language Recognition](https://github.com/AmanYdv77/Real-Time-Sign-Language-Recognition)* - An LSTM-based model for recognizing sign language gestures using PyTorch. 🖐
+- 🎓 **Education:** B.Tech in Mathematics & Computing
+- 🛠️ **Current Focus:** Full Stack Web Development (**Django**, **FastAPI**), Production Machine Learning, and Interactive Dashboards (**Streamlit**)
+- ⚡ **Tech Stack:** Python, Django, FastAPI, Streamlit, Scikit-Learn, Pandas, NumPy, SQL, C++, Git
+- ✒️ **Interests:** Applied Mathematics, Machine Learning Workflows, Data Engineering, Classical Urdu/Hindi Poetry
 
 ---
 
-### 📚 Learning & Experimenting
+### 🛠️ Featured Projects
 
-I'm always diving into new tech and methodologies, especially in:
-
-- *Deep Learning & AI:* Training LSTMs, CNNs, and NLP models.
-- *Computer Vision & Robotics:* Developing automation solutions using OpenCV and PyTorch.
-- *Cybersecurity & Ethical Hacking:* Exploring security tools and AI-driven defense mechanisms.
-
----
-
-### 🌐 GitHub Stats
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[College Result Platform](https://github.com/AmanYdv77/Students_Performance_Prediction)** | Web application featuring role-based dashboards (Admin/Faculty/Student), structured database management, and integrated ML algorithms to predict student performance metrics. | Python, Django, FastAPI, Scikit-Learn, SQL |
+| **[TelematicsPro](https://github.com/AmanYdv77/telematics_pro)** | Industrial-grade vehicle data processing suite developed during my internship at **Maruti Suzuki**. Features a 6-stage pipeline for mapping, segmenting, cleaning, profiling, and ML-assisted analysis on raw vehicle telematics data. | Python, Streamlit, Pandas, NumPy, ML |
 
 ---
 
-### 🌍 Where You Can Find Me
+### 📚 Core Competencies & Skills
 
-- [LinkedIn](https://www.linkedin.com/in/Aman-Yadav77/) - Let's connect!
-- [GitHub](https://github.com/AmanYdv77) - Check out my work!
-- [Portfolio (Coming Soon)](#) - A showcase of my projects and ideas!
+- **Full Stack & Backend Engineering:** Designing RESTful APIs using **FastAPI**, monolithic applications with **Django**, and role-based access control (RBAC).
+- **Machine Learning & Data Analytics:** Integrating ML classification/regression pipelines, data mapping, trip segmentation, and feature extraction.
+- **Computational Mathematics:** Applied calculus, matrix algebra, and algorithmic design for computational systems.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanYdv77&show_icons=true&theme=radial" alt="Aman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanYdv77&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🌍 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/Aman-Yadav77](https://www.linkedin.com/in/Aman-Yadav77/)
+- **GitHub:** [github.com/AmanYdv77](https://github.com/AmanYdv77)
+
+---
 
 ### 👀 Currently Seeking
 
-Opportunities in *AI, Robotics, and Computer Vision*—whether it's research, open-source contributions, or industry projects. If you're working on something exciting, I'd love to collaborate!
-
----
+Opportunities and software engineering roles in **Full Stack Web Development, Backend Engineering, and Applied Machine Learning**. Feel free to reach out to connect or collaborate!
