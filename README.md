@@ -13,7 +13,7 @@ I'm Aman Yadav, an undergraduate student specializing in **Mathematics & Computi
 - 🎓 **Education:** B.Tech in Mathematics & Computing
 - 🛠️ **Current Focus:** Full Stack Web Development (**Django**, **FastAPI**), Production Machine Learning, and Interactive Dashboards (**Streamlit**)
 - ⚡ **Tech Stack:** Python, Django, FastAPI, Streamlit, Scikit-Learn, Pandas, NumPy, SQL, C++, Git
-- ✒️ **Interests:** Applied Mathematics, Machine Learning Workflows, Data Engineering, Classical Urdu/Hindi Poetry
+- ✒️ **Interests:** Applied Mathematics, Machine Learning Workflows, Data Engineering.
 
 ---
 
