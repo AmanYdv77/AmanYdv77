@@ -25,10 +25,10 @@
 
 ## ⚡ About Me
 
-- 🎓 **Academics:** B.Tech in **Mathematics & Computing** at **Central University of Karnataka** (Expected Grad: **2027**). Strong foundation in discrete math, linear algebra, probability, and numerical algorithms.
-- ⚙️ **Backend & Distributed Systems:** Architecting resilient, high-concurrency APIs, decoupled job queues, and async microservices using **FastAPI**, **Django**, **Celery**, **Redis**, and **PostgreSQL**.
-- 🧠 **Applied ML & Telemetry:** Designing predictive sequence architectures, degradation prognostic engines, and industrial telemetry processing with **PyTorch**, **Scikit-Learn**, and **NumPy**.
-- 🏭 **Industry Experience:** Engineering intern at **Maruti Suzuki India Limited** (EN-DAX Dept), delivering high-throughput sensor telemetry ingestion and validation pipelines.
+- **Academics:** B.Tech in **Mathematics & Computing** at **Central University of Karnataka** (Expected Grad: **2027**). Strong foundation in discrete math, linear algebra, probability, and numerical algorithms.
+- **Backend & Distributed Systems:** Architecting resilient, high-concurrency APIs, decoupled job queues, and async microservices using **FastAPI**, **Django**, **Celery**, **Redis**, and **PostgreSQL**.
+- **Applied ML & Telemetry:** Designing predictive sequence architectures, degradation prognostic engines, and industrial telemetry processing with **PyTorch**, **Scikit-Learn**, and **NumPy**.
+- **Industry Experience:** Engineering intern at **Maruti Suzuki India Limited** (EN-DAX Dept), delivering high-throughput sensor telemetry ingestion and validation pipelines.
 
 ---
 
