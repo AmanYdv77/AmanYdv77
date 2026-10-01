@@ -1,145 +1,112 @@
 <div align="center">
 
-# 👨‍💻 Aman Yadav
-### **Mathematics & Computing | Backend Systems & Applied ML Engineer**
+# Aman Yadav
+### Backend Engineer & Applied Machine Learning Practitioner
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://actas-aa.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aman-Yadav77/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanYdv77)
-[![Ex-Intern](https://img.shields.io/badge/Ex--Intern-Maruti_Suzuki-E31837?style=for-the-badge&logo=car&logoColor=white)](https://github.com/AmanYdv77/telematics_pro)
-[![Location](https://img.shields.io/badge/Location-India-007ACC?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-actas--aa.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://actas-aa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman--Yadav77-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aman-Yadav77/)
+[![Email](https://img.shields.io/badge/Email-amanstorm77%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amanstorm77@gmail.com)
+[![Location](https://img.shields.io/badge/Location-India-1E293B?style=flat-square&logo=googlemaps&logoColor=white)](https://actas-aa.vercel.app/)
 
 <p align="center">
-  <em>Specializing in the intersection of mathematical computing, high-concurrency backend architectures, and production machine learning pipelines.</em>
+  Mathematics & Computing undergraduate architecting scalable, high-concurrency backend systems, distributed async task pipelines, and production machine learning models.
 </p>
 
+---
+
 </div>
 
----
+## Executive Summary
 
-### ⚡ Snapshot
-
-- 🎓 **Academics:** Undergraduate in **Mathematics & Computing** — strong foundations in applied linear algebra, discrete structures, and algorithmic optimization.
-- 🚗 **Industry Work:** Former Data Engineering / ML Intern at **Maruti Suzuki**, building large-scale vehicle sensor processing pipelines.
-- 🏗️ **What I Build:** Production-grade REST APIs, asynchronous task workers (Celery/Redis), containerized environments, and predictive ML systems.
-- 🎯 **Target Roles:** Backend Engineering, Distributed Systems, Applied Machine Learning / MLOps.
+- **Background:** Undergraduate in Mathematics & Computing, combining mathematical depth (linear algebra, probability, numerical optimization) with production software engineering.
+- **Backend & Distributed Systems:** Building resilient, high-throughput APIs and async queue workers using FastAPI, Django, Celery, Redis, and PostgreSQL.
+- **Applied Machine Learning:** Designing predictive sequence architectures, degradation modeling, and telemetry analytics with PyTorch, Scikit-Learn, and Pandas.
+- **Industry Experience:** Former engineering intern at Maruti Suzuki, delivering an industrial-grade telemetry stream processing and validation pipeline for raw vehicle sensor feeds.
 
 ---
 
-### 🚀 Flagship Systems & Projects
+## Technical Arsenal
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 <a href="https://github.com/AmanYdv77/edupulse">EduPulse</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      </p>
-      <p><b>Academic Early-Warning & Performance Prediction Platform:</b></p>
-      <ul>
-        <li>Full-stack predictive system with automated student performance forecasting.</li>
-        <li>Architected with role-based dashboards, database persistence, and end-to-end CI/CD testing pipelines.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ <a href="https://github.com/AmanYdv77/PingGuard">PingGuard</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p><b>Distributed Uptime & Keep-Alive Monitoring Service:</b></p>
-      <ul>
-        <li>Self-hosted distributed health-check engine using Celery workers and Redis broker.</li>
-        <li>Automated background ping sweeps, periodic task scheduling, and latency metrics tracking.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🚗 <a href="https://github.com/AmanYdv77/telematics_pro">TelematicsPro</a> <em>(Developed @ Maruti Suzuki)</em></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
-      </p>
-      <p><b>Industrial-Grade Vehicle Telemetry Processing Suite:</b></p>
-      <ul>
-        <li>6-stage analytical pipeline: ingestion, cleaning, trip segmentation, quality profiling, and ML-assisted driver behavior insights.</li>
-        <li>Engineered during internship to handle complex, messy IoT sensor data streams from test vehicles.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Languages & Core Foundations
+`Python` • `C++` • `SQL (PostgreSQL)` • `TypeScript` • `Bash` • `Linear Algebra & Numerical Methods`
+
+### Backend & Distributed Architecture
+`FastAPI` • `Django` • `Celery` • `Redis` • `AsyncIO` • `RESTful APIs` • `Alembic` • `JWT & RBAC Auth`
+
+### Machine Learning & Data Science
+`PyTorch` • `Scikit-Learn` • `Pandas` • `NumPy` • `1D-CNN + LSTM` • `Time-Series & Telemetry ML` • `Streamlit`
+
+### DevOps & Engineering Tooling
+`Docker` • `Git / GitHub` • `CI/CD Pipelines` • `Linux / Shell` • `Pre-commit Hooks` • `Postman`
 
 ---
 
-### 🛠️ Technical Arsenal
+## Featured Projects
 
-<details open>
-  <summary><b>Languages & Computational Foundations</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linear_Algebra-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Numerical_Computing-333333?style=for-the-badge" />
-</details>
+### 1. [EduPulse](https://github.com/AmanYdv77/edupulse) — Student Performance Forecasting & Academic Early-Warning Platform
+> *Dual-model predictive academic intelligence platform built with Django, React 19, PostgreSQL, Redis, and Celery.*
 
-<br/>
-
-<details open>
-  <summary><b>Backend, Asynchronous & Distributed Systems</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</details>
-
-<br/>
-
-<details open>
-  <summary><b>Machine Learning & Data Engineering</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</details>
-
-<br/>
-
-<details open>
-  <summary><b>DevOps & Tooling</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</details>
+- **Dual-Model ML Architecture:** Designed a two-tier predictive engine using baseline behavioral priors and longitudinal institutional models with `GroupedKFold` cross-validation and demographic quarantine to ensure zero PII leakage and ethical AI inference.
+- **High-Performance Distributed Stack:** Engineered an asynchronous Celery worker fleet backed by an isolated dual-Redis architecture (dedicated cache + queue broker), generational caching, and automated Docker Compose CI/CD deployment.
+- **Tech Stack:** `Django` • `React 19` • `TypeScript` • `PostgreSQL` • `Redis` • `Celery` • `Scikit-Learn` • `Docker`
+- **Links:** [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AmanYdv77/edupulse)
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 2. [PingGuard](https://github.com/AmanYdv77/PingGuard) — Distributed HTTP Uptime & Keep-Alive Monitoring Engine
+> *Self-hosted, high-concurrency uptime engine managing asynchronous heartbeats and scheduled health checks.*
+
+- **Decoupled Asynchronous Probing:** Separated FastAPI control plane API interactions from outbound probing workloads via Celery workers and periodic database sweeps using row-level locking (`FOR UPDATE SKIP LOCKED`) to eliminate duplicate task dispatching.
+- **SSRF & DNS-Rebinding Hardening:** Implemented strict network security controls including pre-flight async DNS resolution against private CIDR blocklists and direct IP pinning to prevent Time-of-Check to Time-of-Use (TOCTOU) DNS rebinding attacks.
+- **Tech Stack:** `FastAPI` • `PostgreSQL 15` • `Redis 7` • `Celery` • `AsyncIO` • `Docker`
+- **Links:** [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AmanYdv77/PingGuard)
+
+---
+
+### 3. [EV-Lifespan](https://github.com/AmanYdv77/ev-lifespan) — EV Battery Remaining Useful Life (RUL) Prediction Platform
+> *End-to-end deep learning prognostic platform estimating lithium-ion battery degradation from multi-channel sensor telemetry.*
+
+- **Hybrid Deep Sequence Architecture:** Developed a 2-tier spatial-temporal model fusing a 1D-CNN (feature extraction across voltage, current, and temperature profiles) with 2-layer Stacked LSTM networks over sliding cycle windows.
+- **Quantitative Benchmark Performance:** Achieved an **RMSE of 19.40 cycles** and **MAE of 15.67 cycles** with **< 15ms inference latency**, packaged in a multi-stage Docker container with a unified FastAPI backend and interactive dark-mode React dashboard.
+- **Tech Stack:** `PyTorch` • `FastAPI` • `React 18` • `1D-CNN + LSTM` • `Docker` • `Recharts`
+- **Links:** [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AmanYdv77/ev-lifespan)
+
+---
+
+## Industry Experience Project
+
+### [TelematicsPro](https://github.com/AmanYdv77/telematics_pro) — Industrial Vehicle Telematics & Sensor Processing Suite
+> *Developed during engineering internship at Maruti Suzuki for high-throughput automotive sensor ingestion, validation, and analytics.*
+
+- **6-Stage Ingestion & Normalization Pipeline:** Built a modular telemetry processing suite that automatically maps vendor-specific headers to a 40-feature automotive taxonomy, decomposes 3-axis accelerometer vectors, and handles trip segmentation.
+- **Kinematic Derivation & Statistical Cleansing:** Engineered Haversine trajectory distance calculation, idle duration tracking, aggressive driving event detection (hard braking & rapid acceleration), and robust outlier treatment (IQR & Z-score) with full JSON audit logs.
+- **Tech Stack:** `Python` • `Streamlit` • `Pandas` • `NumPy` • `Sensor Telemetry` • `Kinematics ML`
+- **Links:** [![Live App](https://img.shields.io/badge/Live_App-telematicspro.streamlit.app-4F46E5?style=flat-square&logo=streamlit&logoColor=white)](https://telematicspro.streamlit.app/) [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AmanYdv77/telematics_pro)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanYdv77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanYdv77&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AmanYdv77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aman's GitHub Stats" />
+      </td>
+      <td>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanYdv77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanYdv77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div align="center">
-  <h3>📫 Open for Backend Engineering & Applied ML Roles</h3>
-  <p>Looking for opportunities to solve challenging engineering and data problems.</p>
-  <a href="https://www.linkedin.com/in/Aman-Yadav77/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-</div>
+## Connect & Collaborate
+
+- **Interactive Portfolio:** [actas-aa.vercel.app](https://actas-aa.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/Aman-Yadav77](https://www.linkedin.com/in/Aman-Yadav77/)
+- **Email:** [amanstorm77@gmail.com](mailto:amanstorm77@gmail.com)
+- **Open to:** Backend engineering roles, distributed systems challenges, applied ML opportunities, and open-source contributions.
